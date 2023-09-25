@@ -1,0 +1,68 @@
+center{
+    background-image: url(background.jpg);
+    opacity: 0.9;
+    font-family: Roboto;
+}
+
+
+.profile {
+    width: 100px;
+    margin-left: 0px;
+    margin-top: 20px;
+   border-radius: 50%;
+    padding : 40px
+    background-color: rgb(216, 195, 195);
+    
+    
+}
+.address{
+ margin: 0px;
+ font-family: roboto;
+ margin-bottom: 0px;
+ color: white;
+
+}
+a{
+    color: white;
+}
+.skills{
+    font-size: large;
+    font-weight: 900;
+    margin-top: 30px;
+    margin-left: 30px;
+    margin-right: 30px;
+    margin-bottom: 0px;
+    border-bottom: 2px;
+    border-top: 0px;
+    border-right: 0px;
+    border-left: 0px;
+    border-style: solid;
+    border-color: black;
+    font-family: Roboto;
+  
+}
+ .paragraph1{
+    margin-left: 30px;
+    margin-top: 20px;
+    font-family:Roboto;
+   
+    
+ }   
+
+
+.name{
+    font-weight: bold;
+    font-size: large;
+    color: white;
+    font-family: Roboto;
+}
+.background-color{
+    background-color: rgb(145, 191, 231);
+   
+
+}
+.div2{
+    display: grid;
+    grid-template-columns:  1fr 1fr;
+    font-family: Roboto;
+}
